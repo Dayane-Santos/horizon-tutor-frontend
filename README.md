@@ -8,7 +8,7 @@ O projeto foi desenhado sob a premissa de máxima performance, leveza e facilida
 
 - **HTML5 & Vanilla JavaScript:** Optou-se por não utilizar frameworks pesados (como React ou Next.js) para garantir compatibilidade imediata com qualquer navegador e eliminar etapas lentas de build ou dependências do NPM.
 - **Tailwind CSS (via CDN):** Utilizado para construir uma interface moderna, responsiva, escura e polida, alinhada à identidade visual de produtos premium.
-- **Formatação e Qualidade (Item 5.c):** O código foi integralmente formatado utilizando extensões de Prettier/ESLint integradas diretamente no editor de código assistido (Cursor) durante todo o fluxo de desenvolvimento.
+- **Formatação e Qualidade:** O código foi integralmente formatado utilizando extensões de Prettier/ESLint integradas diretamente no editor de código assistido (Cursor) durante todo o fluxo de desenvolvimento.
 
 ## 📱 Estrutura das Páginas
 
